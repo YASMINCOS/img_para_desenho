@@ -80,12 +80,6 @@ def converter_imagem():
     l_img.place(x=60,y=60)
 
 
-    
-
-
-
-
-
 #------opcpes--------
 
 l_opcoes=Label(janela,text='Configurações-------------------------------------------'.upper(),anchor=NW,font=('Verdana 7 bold'),bg=co1,fg=co4)
